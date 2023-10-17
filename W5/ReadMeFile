@@ -19,17 +19,19 @@ Included in this repository is a Flask web application for credit approval. The 
 
 ### Flask Web Application
 
-![Flask Web Application](credit-approval-in-docker-web-app.png)
+
+![Flask Web Application](https://github.com/MyatKaung/MLZoomCamp_MK/raw/main/W5/credit-approval-in-docker-web-app.png)
+
 
 ### Docker Application Running
 
-![Docker Application](docker-running.png)
+![Docker Application](https://github.com/MyatKaung/MLZoomCamp_MK/raw/main/W5/docker-running.png)
 
 ### Predicting Output
 
 Here's the output after sending a request and predicting using the Flask application:
 
-![Prediction Output](send_request.png)
+![Prediction Output](https://github.com/MyatKaung/MLZoomCamp_MK/raw/main/W5/send_request.png)
 
 ## Conclusion
 
