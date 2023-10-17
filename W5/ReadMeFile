@@ -1,1 +1,37 @@
+# MLZoomCamp_MK - Week 5
+
+This repository contains the materials for Week 5 of the MLZoomCamp. 
+
+## Overview
+
+Included in this repository is a Flask web application for credit approval. The application has been dockerized for easy deployment and testing.
+
+## Files
+
+- `app.py`: The main Flask application.
+- `Dockerfile`: Instructions for building the Docker container.
+- `requirements.txt`: Required packages for the Flask application.
+- `dv.bin` & `model1.bin`: Serialized model files.
+- `predict.py`: Script to make predictions.
+- `send_request.py`: Script to send requests to the Flask application.
+
+## Images
+
+### Flask Web Application
+
+![Flask Web Application](credit-approval-in-docker-web-app.png)
+
+### Docker Application Running
+
+![Docker Application](docker-running.png)
+
+### Predicting Output
+
+Here's the output after sending a request and predicting using the Flask application:
+
+![Prediction Output](send_request.png)
+
+## Conclusion
+
+This repository showcases the creation and deployment of a Flask web application using Docker and its interaction to predict outputs.
 
